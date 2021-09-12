@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LenonFelipe
 - 👀 I’m interested in development and programming
 - 🌱 I’m currently learning Javascript
-- 🤗 I've already know Css and HTML (But the Basic only)
+- 🤗 I've already know Css and HTML 
