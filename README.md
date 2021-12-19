@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LenonFelipe
-- 👀 I’m interested in development and programming
-- 🌱 I’m currently learning Javascript, I want to learn react.js for now 
+- 👀 I’m a dev front-end
+- 🌱 Progamming in javascript, learning React.js 
 - 🤗 Making some projects of front-end on the way to be a senior \o/
