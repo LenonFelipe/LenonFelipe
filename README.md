@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LenonFelipe
 - 👀 I’m a dev front-end
 - 🌱 Progamming in javascript, learning React.js 
-- 🤗 Making some projects of front-end on the way to be a senior \o/
+- 🤗 Doing some front-end´s projects on the way to be a Pleno \o/
