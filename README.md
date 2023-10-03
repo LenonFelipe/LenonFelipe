@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LenonFelipe
-- 👀 I’m a dev front-end
-- 🌱 Progamming in javascript and react.js
+- 👀 I’m a dev mobile 
+- 🌱 Progamming in React.Native
