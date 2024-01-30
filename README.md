@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LenonFelipe
-- 👀 I’m a dev mobile 
-- 🌱 Progamming in React.Native
+- 👀 I’m a back-end developer
+- 🌱 Progamming in javascipt/Node.js
