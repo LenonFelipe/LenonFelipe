@@ -28,6 +28,8 @@
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height="50px" width="50px" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+         
 </p>
 </div>
 <p>
@@ -36,7 +38,9 @@
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 
+            
 </p>
 </div>
 
@@ -46,6 +50,5 @@
 <a href="https://github.com/LenonFelipe">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenonFelipe&layout=compact&langs_count=7&theme=dracula"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LenonFelipe&show_icons=true&theme=dracula)
 </div>
 
