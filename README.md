@@ -1,6 +1,6 @@
 <p>{</p>
   <p>"nome": "Lenon Felipe",</p>
-  <p>"profissao": "Desenvolvedor Back-End",</p>
+  <p>"profissao": "Desenvolvedor Fullstack",</p>
   <p>"descricao": "Sou um desenvolvedor back-end apaixonado por tecnologia e pela vida. Caçador e exterminador de insetos :) ",</p>
   <p>"tecnologias": {</p>
     <p>"front-end": {</p>
