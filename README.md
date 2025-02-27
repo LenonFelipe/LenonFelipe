@@ -1,7 +1,7 @@
 <p>{</p>
   <p>"nome": "Lenon Felipe",</p>
   <p>"profissao": "Desenvolvedor Back-end",</p>
-  <p>"descricao": "Sou um desenvolvedor back-end apaixonado por tecnologia e pela vida. Caçador e exterminador de insetos :) ",</p>
+  <p>"descricao": "Sou um desenvolvedor Back-end apaixonado por tecnologia e pela vida. Caçador e exterminador de insetos :) ",</p>
   <p>"tecnologias": {</p>
     <p>"front-end": {</p>
       <p>"linguagens": ["HTML", "CSS", "JavaScript"],</p>
