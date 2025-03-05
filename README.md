@@ -1,7 +1,6 @@
 <p>{</p>
   <p>"nome": "Lenon Felipe",</p>
   <p>"profissao": "Desenvolvedor Back-end",</p>
-  <p>"descricao": "Sou um desenvolvedor Back-end apaixonado por tecnologia e pela vida. Caçador e exterminador de bugs :) ",</p>
   <p>"tecnologias": {</p>
     <p>"front-end": {</p>
       <p>"linguagens": ["HTML", "CSS", "JavaScript"],</p>
