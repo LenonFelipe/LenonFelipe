@@ -4,9 +4,9 @@
 <br /> 
 
 <strong>About me:</strong>
-- 🤔 Nerd who likes sports .
-- 🎓 I'm in college, studying Systems Analysis and Development at <strong>Descomplica</strong>.
-- 💼 I'm not at a job for now, but i'm looking for.
+- 🤔 Passionate about technology and an avid sports enthusiast.
+- 🎓 Currently pursuing a degree in Systems Analysis and Development at <strong>Descomplica</strong>.
+- 💼 I'm currently seeking a back-end developer position.
 - 🌱 Strengthening my knowledge of databases.
 
 <strong>Skills:</strong>
