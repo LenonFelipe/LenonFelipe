@@ -1,7 +1,5 @@
 <img align="right" src="https://github.com/user-attachments/assets/5ca1c332-6b79-42ed-929c-f2c35a601603" min-width="300px" max-width="300px" width="250px">
-<strong>👍Hi, I'm Lenon Felipe and I'm a back-end developer</strong>
-<br /> 
-<br /> 
+
 
 <strong>About me:</strong>
 - 🤔 Passionate about technology and an avid sports enthusiast.
