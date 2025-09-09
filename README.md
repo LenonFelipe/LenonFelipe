@@ -4,8 +4,8 @@
 <strong>About me:</strong>
 - 🤔 Passionate about technology and an avid sports enthusiast.
 - 🎓 Currently pursuing a degree in Systems Analysis and Development at <strong>Descomplica</strong>.
-- 💼 I'm currently seeking a back-end developer position.
-- 🌱 Strengthening my knowledge of databases.
+- 💼 I'm currently seeking a front-end developer position.
+- 🌱 Strengthening my knowledge on API's manipulation.
 
 <strong>Skills:</strong>
 
